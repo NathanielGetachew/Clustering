@@ -6,10 +6,10 @@ https://docs.google.com/document/d/11kCpzN1dLeJaNi2dAo4hl4xS9TXPdUk3Br7owcFZra0/
 Iris Dataset K-Means Clustering Analysis
 This project performs K-means clustering on the Iris dataset using Python and Scikit-learn. It explores optimal cluster numbers using the Elbow Method and Silhouette Score.
 
-Project Overview
+**Project Overview**
 The Iris dataset consists of three flower species (Setosa, Versicolor, Virginica) and four features (sepal length, sepal width, petal length, petal width). The K-means algorithm clusters the data without prior labels.
 
-Key Steps
+**Key Steps**
 Data Loading: Import the Iris dataset.
 Preprocessing: Standardize the features to ensure all variables contribute equally.
 K-means Clustering: Test multiple values of 
@@ -23,10 +23,8 @@ Silhouette Score: Evaluate cluster quality.
 Visualization: Display clusters and centroids.
 Results
 The Elbow Method identifies 
-𝑘
-=
-3
-k=3 as the optimal number of clusters.
+𝑘=2
+k=2 as the optimal number of clusters.
 The Silhouette Score confirms the clustering quality.
 The final clustering visually aligns with the three species in the dataset.
 Installation
