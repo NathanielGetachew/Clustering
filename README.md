@@ -50,7 +50,7 @@ k for clustering.
 Analyze results using the Elbow Method and Silhouette Score.
 Visualize the clusters in 2D space.
 Dependencies
-Python 3.x
+Python 3.13
 NumPy
 Pandas
 Matplotlib
