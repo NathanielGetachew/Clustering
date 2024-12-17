@@ -32,7 +32,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/iris-kmeans-clustering.git
+git clone https://github.com/NathanielGetachew/Clustering.git
 cd iris-kmeans-clustering
 Install dependencies:
 
