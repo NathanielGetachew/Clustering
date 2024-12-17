@@ -33,10 +33,10 @@ Clone the repository:
 bash
 Copy code
 git clone https://github.com/NathanielGetachew/Clustering.git
-cd iris-kmeans-clustering
+
 Install dependencies:
 
-bash
+bash 
 Copy code
 pip install numpy pandas matplotlib scikit-learn
 Run the script in a Python environment or Jupyter Notebook.
